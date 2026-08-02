@@ -2,7 +2,7 @@
 
 Flutter trading demo with a **mock live market feed**, watchlists, buy/sell ticket, and holdings with live P&amp;L.
 
-Built with **light Clean Architecture + BLoC** — see [ARCHITECTURE.md](./ARCHITECTURE.md) for trade-offs (including what we deliberately skipped). Optional personal prep: [INTERVIEW_ANSWERS.md](./INTERVIEW_ANSWERS.md).
+Built with **light Clean Architecture + BLoC**. See [ARCHITECTURE.md](./ARCHITECTURE.md) for trade-offs and what was deliberately skipped.
 
 ## Features
 
