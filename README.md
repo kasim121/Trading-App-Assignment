@@ -122,7 +122,15 @@ flutter test test/place_order_test.dart test/money_test.dart
 
 ### Walkthrough video
 
-https://github.com/kasim121/Trading-App-Assignment/raw/main/docs/demo.mp4
+<p align="center">
+  <a href="https://github.com/kasim121/Trading-App-Assignment/raw/main/docs/demo.mp4">
+    <img src="docs/demo-preview.gif" width="270" alt="Trade app walkthrough preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kasim121/Trading-App-Assignment/raw/main/docs/demo.mp4"><b>▶ Play full demo video (MP4)</b></a>
+</p>
 
 ### Suggested demo path
 
