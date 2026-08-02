@@ -120,7 +120,11 @@ flutter test test/place_order_test.dart test/money_test.dart
 
 > Note: if your project path contains an apostrophe (e.g. `Kasim'sStuff`), `flutter test` may fail due to a Flutter tooling path bug. Clone/copy the repo to a path without `'` to run tests, or run from CI.
 
-### Suggested demo path (walkthrough video)
+### Walkthrough video
+
+https://github.com/kasim121/Trading-App-Assignment/raw/main/docs/demo.mp4
+
+### Suggested demo path
 
 1. **Market** — live flashes; turn **Stress** on (~5 ticks/sec/stock); scroll — UI stays smooth  
 2. **Watchlist** — create list, add stocks, **drag reorder**, swipe remove; force-quit & relaunch → restored  
@@ -149,4 +153,4 @@ flutter test test/place_order_test.dart test/money_test.dart
 - [x] Architecture documented with trade-offs  
 - [x] Domain unit tests for money + orders  
 
-Attach a short Loom/screen recording covering the demo path when submitting.
+Demo walkthrough: [`docs/demo.mp4`](docs/demo.mp4)
